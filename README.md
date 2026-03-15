@@ -10,6 +10,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganabm30/DSA-grind/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -21,5 +22,6 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganabm30/DSA-grind/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
