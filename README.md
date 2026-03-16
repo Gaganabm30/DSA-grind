@@ -32,6 +32,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
