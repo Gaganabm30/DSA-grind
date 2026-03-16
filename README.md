@@ -28,4 +28,16 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
