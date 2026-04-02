@@ -16,6 +16,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0162-find-peak-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -69,4 +70,5 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
