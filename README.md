@@ -7,6 +7,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganabm30/DSA-grind/tree/master/0035-search-insert-position) |
@@ -61,4 +62,8 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
