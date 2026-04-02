@@ -18,6 +18,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Gaganabm30/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
