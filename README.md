@@ -14,6 +14,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 ## Hash Table
@@ -40,6 +41,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
@@ -66,4 +68,5 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
