@@ -22,6 +22,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Gaganabm30/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaganabm30/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,4 +92,5 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
