@@ -25,6 +25,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Gaganabm30/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -65,12 +67,14 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaganabm30/DSA-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Gaganabm30/DSA-grind/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
 | ------- |
