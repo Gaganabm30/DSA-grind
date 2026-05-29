@@ -13,6 +13,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganabm30/DSA-grind/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -89,6 +90,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0015-3sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gaganabm30/DSA-grind/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaganabm30/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
@@ -103,6 +105,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0015-3sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gaganabm30/DSA-grind/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
