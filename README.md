@@ -30,6 +30,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaganabm30/DSA-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -78,6 +81,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Gaganabm30/DSA-grind/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
