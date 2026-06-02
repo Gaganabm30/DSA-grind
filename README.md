@@ -11,6 +11,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0016-3sum-closest](https://github.com/Gaganabm30/DSA-grind/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Gaganabm30/DSA-grind/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganabm30/DSA-grind/tree/master/0035-search-insert-position) |
@@ -106,6 +107,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0016-3sum-closest](https://github.com/Gaganabm30/DSA-grind/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Gaganabm30/DSA-grind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaganabm30/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
