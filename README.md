@@ -14,6 +14,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganabm30/DSA-grind/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -143,4 +145,8 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
