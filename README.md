@@ -21,6 +21,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaganabm30/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -117,6 +118,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gaganabm30/DSA-grind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaganabm30/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
@@ -136,6 +138,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0018-4sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
