@@ -15,6 +15,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gaganabm30/DSA-grind/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
@@ -71,6 +72,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
@@ -157,6 +159,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
