@@ -17,6 +17,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0035-search-insert-position](https://github.com/Gaganabm30/DSA-grind/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Gaganabm30/DSA-grind/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
@@ -117,6 +118,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gaganabm30/DSA-grind/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gaganabm30/DSA-grind/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -179,6 +181,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Gaganabm30/DSA-grind/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
