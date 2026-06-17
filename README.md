@@ -42,6 +42,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gaganabm30/DSA-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Gaganabm30/DSA-grind/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gaganabm30/DSA-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gaganabm30/DSA-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
