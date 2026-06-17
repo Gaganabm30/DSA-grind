@@ -32,6 +32,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gaganabm30/DSA-grind/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -155,6 +157,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
@@ -192,4 +195,5 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
