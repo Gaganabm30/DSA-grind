@@ -24,6 +24,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaganabm30/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Gaganabm30/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0162-find-peak-element) |
@@ -51,6 +52,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0001-two-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Gaganabm30/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
@@ -196,4 +198,8 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0169-majority-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gaganabm30/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
