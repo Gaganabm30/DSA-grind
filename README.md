@@ -51,6 +51,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gaganabm30/DSA-grind/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Gaganabm30/DSA-grind/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Binary Search
 |  |
 | ------- |
