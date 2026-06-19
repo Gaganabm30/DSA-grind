@@ -49,6 +49,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gaganabm30/DSA-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -69,6 +70,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Binary Search
 |  |
@@ -102,6 +104,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
@@ -118,6 +121,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaganabm30/DSA-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Gaganabm30/DSA-grind/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -132,6 +136,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0930-binary-subarrays-with-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
