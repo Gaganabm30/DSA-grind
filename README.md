@@ -49,6 +49,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Gaganabm30/DSA-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gaganabm30/DSA-grind/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -70,6 +71,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Gaganabm30/DSA-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Binary Search
@@ -136,6 +138,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0930-binary-subarrays-with-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Gaganabm30/DSA-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -212,6 +215,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gaganabm30/DSA-grind/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Gaganabm30/DSA-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Divide and Conquer
 |  |
 | ------- |
