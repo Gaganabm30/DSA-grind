@@ -1,50 +1,39 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {
-            int[] ans = {-1, -1};
-            int start = firstSearch(nums, target);
-            int end = secondSearch(nums, target);
-            
-            return new int[]  {start, end}; 
+    public int[] searchRange(int[] arr, int target) {
+            int[] ans = {-1,-1};
+            int first=firstOcc(arr,target);
+            int last=lastOcc(arr,target);
+            return new int[] {first, last};
    }
-
-    static int firstSearch(int[] arr, int target){
-        int ans = -1; 
-        int start = 0; 
-        int end = arr.length-1;
-
-        while(start<=end){
-            int mid = start+(end-start)/2;
-
-            if(target==arr[mid]){
-                ans = mid;
-                end = mid-1;
-            }else if(target>arr[mid]){
-                start = mid+1;
-            }else{
-                end= mid-1;
-            }
-        }
-        return ans;
-    }
-
-    static int secondSearch(int[] arr, int target){
-        int ans = -1;
-        int start = 0;
-        int end = arr.length-1;
-
-        while(start<=end){
-            int mid = start+(end-start)/2;
-
-            if(target==arr[mid]){
+    private int firstOcc(int[] arr, int target){
+        int low=0, high=arr.length-1, ans=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(arr[mid]==target){
                 ans=mid;
-                start  = mid+1;
-            }else if(target>arr[mid]){
-               start  = mid+1;
+                high=mid-1;               
+            }else if(arr[mid]>target){
+                high=mid-1;
             }else{
-                end=mid-1;
+                low=mid+1;
             }
         }
         return ans;
     }
 
+    private int lastOcc(int[] arr, int target){
+         int low=0, high=arr.length-1, ans=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(arr[mid]==target){
+                ans=mid;
+                low=mid+1;
+            }else if(arr[mid]>target){
+                high=mid-1;
+            }else{
+                low=mid+1;
+            }
+        }
+        return ans;
+    }
 }
