@@ -147,6 +147,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0022-generate-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaganabm30/DSA-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
@@ -210,6 +211,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaganabm30/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -248,4 +250,8 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gaganabm30/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
