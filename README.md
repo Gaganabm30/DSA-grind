@@ -154,6 +154,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaganabm30/DSA-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
@@ -221,6 +222,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0022-generate-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaganabm30/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -265,5 +267,6 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0039-combination-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
