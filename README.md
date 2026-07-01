@@ -120,6 +120,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0523-continuous-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
+| [1922-count-good-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0021-merge-two-sorted-lists](https://github.com/Gaganabm30/DSA-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Gaganabm30/DSA-grind/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
