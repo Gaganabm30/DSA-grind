@@ -156,6 +156,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Gaganabm30/DSA-grind/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0079-word-search) |
