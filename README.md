@@ -117,6 +117,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0050-powx-n](https://github.com/Gaganabm30/DSA-grind/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
@@ -163,6 +164,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0022-generate-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaganabm30/DSA-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
@@ -282,6 +284,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0079-word-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
