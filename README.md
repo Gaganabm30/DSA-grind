@@ -83,6 +83,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0930-binary-subarrays-with-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Gaganabm30/DSA-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1079-letter-tile-possibilities](https://github.com/Gaganabm30/DSA-grind/tree/master/1079-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Binary Search
@@ -168,6 +169,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
+| [1079-letter-tile-possibilities](https://github.com/Gaganabm30/DSA-grind/tree/master/1079-letter-tile-possibilities) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaganabm30/DSA-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
@@ -258,6 +260,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0169-majority-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Gaganabm30/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [1079-letter-tile-possibilities](https://github.com/Gaganabm30/DSA-grind/tree/master/1079-letter-tile-possibilities) |
 ## Union-Find
 |  |
 | ------- |
@@ -290,6 +293,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
+| [1079-letter-tile-possibilities](https://github.com/Gaganabm30/DSA-grind/tree/master/1079-letter-tile-possibilities) |
 ## Depth-First Search
 |  |
 | ------- |
