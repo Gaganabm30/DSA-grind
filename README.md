@@ -48,6 +48,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0347-top-k-frequent-elements](https://github.com/Gaganabm30/DSA-grind/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Gaganabm30/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0523-continuous-subarray-sum) |
+| [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -202,6 +203,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0078-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
+| [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +240,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0053-maximum-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaganabm30/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
+| [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -293,9 +296,14 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gaganabm30/DSA-grind/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
+| [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
 | [1079-letter-tile-possibilities](https://github.com/Gaganabm30/DSA-grind/tree/master/1079-letter-tile-possibilities) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0079-word-search) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
