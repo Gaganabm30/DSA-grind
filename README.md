@@ -53,6 +53,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
@@ -209,6 +210,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -304,6 +307,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/Gaganabm30/DSA-grind/tree/master/1079-letter-tile-possibilities) |
 ## Depth-First Search
 |  |
@@ -314,4 +318,9 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
