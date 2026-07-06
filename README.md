@@ -113,6 +113,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0206-reverse-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gaganabm30/DSA-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
