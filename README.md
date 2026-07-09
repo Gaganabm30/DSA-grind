@@ -112,6 +112,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gaganabm30/DSA-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gaganabm30/DSA-grind/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gaganabm30/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0206-reverse-linked-list) |
@@ -197,6 +198,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0018-4sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gaganabm30/DSA-grind/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gaganabm30/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
