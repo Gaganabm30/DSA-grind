@@ -114,6 +114,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0025-reverse-nodes-in-k-group](https://github.com/Gaganabm30/DSA-grind/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gaganabm30/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0234-palindrome-linked-list) |
@@ -201,6 +202,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0061-rotate-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gaganabm30/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gaganabm30/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
@@ -231,6 +233,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0056-merge-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Gaganabm30/DSA-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
@@ -275,6 +278,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Gaganabm30/DSA-grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Gaganabm30/DSA-grind/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -334,4 +338,8 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
