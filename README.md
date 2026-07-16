@@ -134,6 +134,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Gaganabm30/DSA-grind/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Gaganabm30/DSA-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0523-continuous-subarray-sum) |
@@ -150,6 +151,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0050-powx-n](https://github.com/Gaganabm30/DSA-grind/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Gaganabm30/DSA-grind/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Gaganabm30/DSA-grind/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/1922-count-good-numbers) |
 ## Sliding Window
@@ -226,6 +228,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0078-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Gaganabm30/DSA-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
