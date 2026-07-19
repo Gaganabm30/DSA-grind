@@ -233,6 +233,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Gaganabm30/DSA-grind/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
