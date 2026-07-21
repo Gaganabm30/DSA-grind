@@ -133,6 +133,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Gaganabm30/DSA-grind/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Gaganabm30/DSA-grind/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0189-rotate-array) |
@@ -228,6 +229,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Gaganabm30/DSA-grind/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0137-single-number-ii) |
