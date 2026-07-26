@@ -144,6 +144,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaganabm30/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1518-water-bottles](https://github.com/Gaganabm30/DSA-grind/tree/master/1518-water-bottles) |
 | [1922-count-good-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/1922-count-good-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Gaganabm30/DSA-grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -361,4 +362,8 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Gaganabm30/DSA-grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
