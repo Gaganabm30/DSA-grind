@@ -59,6 +59,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Gaganabm30/DSA-grind/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
+| [0860-lemonade-change](https://github.com/Gaganabm30/DSA-grind/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -273,6 +274,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0455-assign-cookies](https://github.com/Gaganabm30/DSA-grind/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0860-lemonade-change](https://github.com/Gaganabm30/DSA-grind/tree/master/0860-lemonade-change) |
 ## Monotonic Stack
 |  |
 | ------- |
