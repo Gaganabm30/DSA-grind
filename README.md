@@ -49,6 +49,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Gaganabm30/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaganabm30/DSA-grind/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Gaganabm30/DSA-grind/tree/master/0485-max-consecutive-ones) |
@@ -261,6 +262,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gaganabm30/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaganabm30/DSA-grind/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
@@ -274,6 +276,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gaganabm30/DSA-grind/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaganabm30/DSA-grind/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0860-lemonade-change](https://github.com/Gaganabm30/DSA-grind/tree/master/0860-lemonade-change) |
@@ -289,6 +292,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0055-jump-game](https://github.com/Gaganabm30/DSA-grind/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaganabm30/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
