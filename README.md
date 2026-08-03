@@ -199,6 +199,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0093-restore-ip-addresses](https://github.com/Gaganabm30/DSA-grind/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
+| [0678-valid-parenthesis-string](https://github.com/Gaganabm30/DSA-grind/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [1079-letter-tile-possibilities](https://github.com/Gaganabm30/DSA-grind/tree/master/1079-letter-tile-possibilities) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gaganabm30/DSA-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -272,6 +273,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Gaganabm30/DSA-grind/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -280,6 +282,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0435-non-overlapping-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaganabm30/DSA-grind/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Gaganabm30/DSA-grind/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Gaganabm30/DSA-grind/tree/master/0860-lemonade-change) |
 ## Monotonic Stack
 |  |
@@ -296,6 +299,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0435-non-overlapping-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
+| [0678-valid-parenthesis-string](https://github.com/Gaganabm30/DSA-grind/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gaganabm30/DSA-grind/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gaganabm30/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
@@ -380,4 +384,8 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaganabm30/DSA-grind/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Gaganabm30/DSA-grind/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
