@@ -34,6 +34,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0088-merge-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaganabm30/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaganabm30/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Gaganabm30/DSA-grind/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -279,6 +280,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gaganabm30/DSA-grind/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Gaganabm30/DSA-grind/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaganabm30/DSA-grind/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
