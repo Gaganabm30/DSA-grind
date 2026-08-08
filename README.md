@@ -273,6 +273,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gaganabm30/DSA-grind/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gaganabm30/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Gaganabm30/DSA-grind/tree/master/0678-valid-parenthesis-string) |
@@ -395,8 +396,10 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gaganabm30/DSA-grind/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gaganabm30/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gaganabm30/DSA-grind/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gaganabm30/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
