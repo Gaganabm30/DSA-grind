@@ -55,6 +55,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0455-assign-cookies](https://github.com/Gaganabm30/DSA-grind/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/Gaganabm30/DSA-grind/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Gaganabm30/DSA-grind/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Gaganabm30/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/Gaganabm30/DSA-grind/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaganabm30/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,6 +91,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0229-majority-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gaganabm30/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Gaganabm30/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaganabm30/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Gaganabm30/DSA-grind/tree/master/0904-fruit-into-baskets) |
@@ -278,6 +280,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0225-implement-stack-using-queues](https://github.com/Gaganabm30/DSA-grind/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gaganabm30/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Gaganabm30/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Gaganabm30/DSA-grind/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
@@ -294,6 +297,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Gaganabm30/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Dynamic Programming
 |  |
