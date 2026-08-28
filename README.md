@@ -143,6 +143,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaganabm30/DSA-grind/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Gaganabm30/DSA-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Gaganabm30/DSA-grind/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
