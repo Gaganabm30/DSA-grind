@@ -83,6 +83,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0001-two-sum](https://github.com/Gaganabm30/DSA-grind/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Gaganabm30/DSA-grind/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Gaganabm30/DSA-grind/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Gaganabm30/DSA-grind/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Gaganabm30/DSA-grind/tree/master/0073-set-matrix-zeroes) |
@@ -147,6 +148,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0007-reverse-integer](https://github.com/Gaganabm30/DSA-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gaganabm30/DSA-grind/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Gaganabm30/DSA-grind/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Gaganabm30/DSA-grind/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Gaganabm30/DSA-grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Gaganabm30/DSA-grind/tree/master/0050-powx-n) |
@@ -203,6 +205,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Gaganabm30/DSA-grind/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Gaganabm30/DSA-grind/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Gaganabm30/DSA-grind/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gaganabm30/DSA-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gaganabm30/DSA-grind/tree/master/0022-generate-parentheses) |
