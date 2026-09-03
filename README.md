@@ -214,6 +214,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0093-restore-ip-addresses](https://github.com/Gaganabm30/DSA-grind/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Gaganabm30/DSA-grind/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Gaganabm30/DSA-grind/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/Gaganabm30/DSA-grind/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Gaganabm30/DSA-grind/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Gaganabm30/DSA-grind/tree/master/0844-backspace-string-compare) |
 | [1079-letter-tile-possibilities](https://github.com/Gaganabm30/DSA-grind/tree/master/1079-letter-tile-possibilities) |
@@ -292,6 +293,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | [0225-implement-stack-using-queues](https://github.com/Gaganabm30/DSA-grind/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gaganabm30/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gaganabm30/DSA-grind/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Gaganabm30/DSA-grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gaganabm30/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -304,6 +306,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 | ------- |
 | [0055-jump-game](https://github.com/Gaganabm30/DSA-grind/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Gaganabm30/DSA-grind/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Gaganabm30/DSA-grind/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Gaganabm30/DSA-grind/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaganabm30/DSA-grind/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -312,6 +315,7 @@ Daily grind of Data Structures &amp; Algorithms problems from LeetCode to streng
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Gaganabm30/DSA-grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gaganabm30/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gaganabm30/DSA-grind/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gaganabm30/DSA-grind/tree/master/0581-shortest-unsorted-continuous-subarray) |
